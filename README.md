@@ -25,7 +25,7 @@ Community Q&amp;A WebApp  A web application that enables users to ask questions,
 
 2.Frontend: HTML / CSS / JavaScript (or React / Vue / etc.)
 
-3.Database: SQLite / PostgreSQL (or your database)
+3.Database: SQLite / PostgreSQL 
 
 4.APIs: RESTful endpoints for questions, answers, votes, comments
 
