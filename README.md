@@ -2,6 +2,7 @@
 Community Q&amp;A WebApp  A web application that enables users to ask questions, post answers, comment, and upvote/downvote — similar to StackOverflow but simpler, for community learning and knowledge sharing.
 
 #Key Features
+
 1.User authentication and authorization (signup, login, logout)
 
 2.Asking questions & posting answers
@@ -20,7 +21,7 @@ Community Q&amp;A WebApp  A web application that enables users to ask questions,
 
 #Technology Stack
 
-1.Backend: Python / Django (or whichever you used)
+1.Backend: Python / Django
 
 2.Frontend: HTML / CSS / JavaScript (or React / Vue / etc.)
 
